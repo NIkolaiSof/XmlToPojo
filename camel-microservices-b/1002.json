@@ -1,0 +1,11 @@
+{
+  "id": 1002,
+  "from": "user@gmail.com",
+  "to": "DRAFT",
+  "conversionMultiple": 10,
+  "bool": "true",
+  "table": {
+	"key": "userg@mail.com",
+	"value": "cc"
+  }
+}
